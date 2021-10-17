@@ -31,7 +31,7 @@
 
 #### http://localhost:6000/user/:id => Delete Course
 
-### Course Service
+### Order Service
 
 #### http://localhost:7000/order => Create New Order
 
